@@ -50,6 +50,7 @@ body {
   outline: none;
   width: 60%;
   height: 100%;
+  font-family: "Poppins", sans-serif;
   font-size: 2rem;
   margin-top: -2.5rem;
 }
